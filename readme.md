@@ -1,3 +1,5 @@
+<img src=“https://raw.githubusercontent.com/sbutters/raytracer/refs/heads/master/render.png”>
+
 # Raytracer Specification
 
 ## Overview
