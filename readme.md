@@ -1,4 +1,6 @@
-<img src=“https://raw.githubusercontent.com/sbutters/raytracer/refs/heads/master/render.png”>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sbutters/raytracer/refs/heads/master/render.png" width="350" title="hover text">
+</p>
 
 # Raytracer Specification
 
